@@ -1,0 +1,11 @@
+C:\Users\PcUser\Desktop\FilmFilter\DirectorFilter\bin\Debug\DirectorFilter.dll
+C:\Users\PcUser\Desktop\FilmFilter\DirectorFilter\bin\Debug\DirectorFilter.pdb
+C:\Users\PcUser\Desktop\FilmFilter\DirectorFilter\bin\Debug\Filter.Interface.dll
+C:\Users\PcUser\Desktop\FilmFilter\DirectorFilter\bin\Debug\Filter.Models.dll
+C:\Users\PcUser\Desktop\FilmFilter\DirectorFilter\bin\Debug\Filter.Interface.pdb
+C:\Users\PcUser\Desktop\FilmFilter\DirectorFilter\bin\Debug\Filter.Models.pdb
+C:\Users\PcUser\Desktop\FilmFilter\DirectorFilter\obj\Debug\DirectorFilter.csprojAssemblyReference.cache
+C:\Users\PcUser\Desktop\FilmFilter\DirectorFilter\obj\Debug\DirectorFilter.csproj.CoreCompileInputs.cache
+C:\Users\PcUser\Desktop\FilmFilter\DirectorFilter\obj\Debug\DirectorFilter.csproj.CopyComplete
+C:\Users\PcUser\Desktop\FilmFilter\DirectorFilter\obj\Debug\DirectorFilter.dll
+C:\Users\PcUser\Desktop\FilmFilter\DirectorFilter\obj\Debug\DirectorFilter.pdb

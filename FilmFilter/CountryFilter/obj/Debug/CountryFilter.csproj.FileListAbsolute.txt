@@ -1,0 +1,11 @@
+C:\Users\PcUser\Desktop\FilmFilter\CountryFilter\bin\Debug\CountryFilter.dll
+C:\Users\PcUser\Desktop\FilmFilter\CountryFilter\bin\Debug\CountryFilter.pdb
+C:\Users\PcUser\Desktop\FilmFilter\CountryFilter\bin\Debug\Filter.Interface.dll
+C:\Users\PcUser\Desktop\FilmFilter\CountryFilter\bin\Debug\Filter.Models.dll
+C:\Users\PcUser\Desktop\FilmFilter\CountryFilter\bin\Debug\Filter.Interface.pdb
+C:\Users\PcUser\Desktop\FilmFilter\CountryFilter\bin\Debug\Filter.Models.pdb
+C:\Users\PcUser\Desktop\FilmFilter\CountryFilter\obj\Debug\CountryFilter.csprojAssemblyReference.cache
+C:\Users\PcUser\Desktop\FilmFilter\CountryFilter\obj\Debug\CountryFilter.csproj.CoreCompileInputs.cache
+C:\Users\PcUser\Desktop\FilmFilter\CountryFilter\obj\Debug\CountryFilter.csproj.CopyComplete
+C:\Users\PcUser\Desktop\FilmFilter\CountryFilter\obj\Debug\CountryFilter.dll
+C:\Users\PcUser\Desktop\FilmFilter\CountryFilter\obj\Debug\CountryFilter.pdb
