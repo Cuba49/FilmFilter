@@ -1,0 +1,11 @@
+C:\Users\PcUser\Desktop\FilmFilter\GenreFilter\bin\Debug\GenreFilter.dll
+C:\Users\PcUser\Desktop\FilmFilter\GenreFilter\bin\Debug\GenreFilter.pdb
+C:\Users\PcUser\Desktop\FilmFilter\GenreFilter\bin\Debug\Filter.Interface.dll
+C:\Users\PcUser\Desktop\FilmFilter\GenreFilter\bin\Debug\Filter.Models.dll
+C:\Users\PcUser\Desktop\FilmFilter\GenreFilter\bin\Debug\Filter.Interface.pdb
+C:\Users\PcUser\Desktop\FilmFilter\GenreFilter\bin\Debug\Filter.Models.pdb
+C:\Users\PcUser\Desktop\FilmFilter\GenreFilter\obj\Debug\GenreFilter.csprojAssemblyReference.cache
+C:\Users\PcUser\Desktop\FilmFilter\GenreFilter\obj\Debug\GenreFilter.csproj.CoreCompileInputs.cache
+C:\Users\PcUser\Desktop\FilmFilter\GenreFilter\obj\Debug\GenreFilter.csproj.CopyComplete
+C:\Users\PcUser\Desktop\FilmFilter\GenreFilter\obj\Debug\GenreFilter.dll
+C:\Users\PcUser\Desktop\FilmFilter\GenreFilter\obj\Debug\GenreFilter.pdb

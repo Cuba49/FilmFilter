@@ -1,0 +1,5 @@
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Models\bin\Debug\Filter.Models.dll
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Models\bin\Debug\Filter.Models.pdb
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Models\obj\Debug\Filter.Models.csproj.CoreCompileInputs.cache
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Models\obj\Debug\Filter.Models.dll
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Models\obj\Debug\Filter.Models.pdb

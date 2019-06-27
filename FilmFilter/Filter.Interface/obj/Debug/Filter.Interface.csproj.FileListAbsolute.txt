@@ -1,0 +1,9 @@
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Interface\bin\Debug\Filter.Interface.dll
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Interface\bin\Debug\Filter.Interface.pdb
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Interface\bin\Debug\Filter.Models.dll
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Interface\bin\Debug\Filter.Models.pdb
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Interface\obj\Debug\Filter.Interface.csprojAssemblyReference.cache
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Interface\obj\Debug\Filter.Interface.csproj.CoreCompileInputs.cache
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Interface\obj\Debug\Filter.Interface.csproj.CopyComplete
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Interface\obj\Debug\Filter.Interface.dll
+C:\Users\PcUser\Desktop\FilmFilter\Filter.Interface\obj\Debug\Filter.Interface.pdb

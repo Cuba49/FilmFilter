@@ -1,0 +1,11 @@
+C:\Users\PcUser\Desktop\FilmFilter\YearFilter\bin\Debug\YearFilter.dll
+C:\Users\PcUser\Desktop\FilmFilter\YearFilter\bin\Debug\YearFilter.pdb
+C:\Users\PcUser\Desktop\FilmFilter\YearFilter\bin\Debug\Filter.Interface.dll
+C:\Users\PcUser\Desktop\FilmFilter\YearFilter\bin\Debug\Filter.Models.dll
+C:\Users\PcUser\Desktop\FilmFilter\YearFilter\bin\Debug\Filter.Interface.pdb
+C:\Users\PcUser\Desktop\FilmFilter\YearFilter\bin\Debug\Filter.Models.pdb
+C:\Users\PcUser\Desktop\FilmFilter\YearFilter\obj\Debug\YearFilter.csprojAssemblyReference.cache
+C:\Users\PcUser\Desktop\FilmFilter\YearFilter\obj\Debug\YearFilter.csproj.CoreCompileInputs.cache
+C:\Users\PcUser\Desktop\FilmFilter\YearFilter\obj\Debug\YearFilter.csproj.CopyComplete
+C:\Users\PcUser\Desktop\FilmFilter\YearFilter\obj\Debug\YearFilter.dll
+C:\Users\PcUser\Desktop\FilmFilter\YearFilter\obj\Debug\YearFilter.pdb
